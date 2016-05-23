@@ -8,7 +8,7 @@ angular.module('app.controllers', [])
 
 })
       
-.controller('caesarCypherDefinitionCtrl', function($scope) {
+.controller('caesarCipherDefinitionCtrl', function($scope) {
 
 })
    
@@ -20,19 +20,19 @@ angular.module('app.controllers', [])
 
 })
    
-.controller('caesarCypherExampleCtrl', function($scope) {
+.controller('caesarCipherExampleCtrl', function($scope) {
 
 })
    
-.controller('caesarCypherExampleEncryptedCtrl', function($scope) {
+.controller('caesarCipherExampleEncryptedCtrl', function($scope) {
 
 })
    
-.controller('caesarCypherExampleDecryptedCtrl', function($scope) {
+.controller('caesarCipherExampleDecryptedCtrl', function($scope) {
 
 })
    
-.controller('caesarCypherPracticeCtrl', function($scope) {
+.controller('caesarCipherPracticeCtrl', function($scope) {
 
 })
    
@@ -240,7 +240,7 @@ angular.module('app.controllers', [])
 
 })
    
-.controller('caesarCypherQuizCtrl', function($scope) {
+.controller('caesarCipherQuizCtrl', function($scope) {
 
 })
    

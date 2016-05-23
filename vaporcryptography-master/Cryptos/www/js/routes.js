@@ -36,12 +36,12 @@ angular.module('app.routes', ['ionicUIRouter'])
     abstract:true
   })
 
-  .state('tabsController.caesarCypherDefinition', {
+  .state('tabsController.caesarCipherDefinition', {
     url: '/page5',
     views: {
       'tab1': {
-        templateUrl: 'templates/caesarCypherDefinition.html',
-        controller: 'caesarCypherDefinitionCtrl'
+        templateUrl: 'templates/caesarCipherDefinition.html',
+        controller: 'caesarCipherDefinitionCtrl'
       }
     }
   })
@@ -66,42 +66,42 @@ angular.module('app.routes', ['ionicUIRouter'])
     }
   })
 
-  .state('tabsController.caesarCypherExample', {
+  .state('tabsController.caesarCipherExample', {
     url: '/page8',
     views: {
       'tab1': {
-        templateUrl: 'templates/caesarCypherExample.html',
-        controller: 'caesarCypherExampleCtrl'
+        templateUrl: 'templates/caesarCipherExample.html',
+        controller: 'caesarCipherExampleCtrl'
       }
     }
   })
 
-  .state('tabsController.caesarCypherExampleEncrypted', {
+  .state('tabsController.caesarCipherExampleEncrypted', {
     url: '/page9',
     views: {
       'tab1': {
-        templateUrl: 'templates/caesarCypherExampleEncrypted.html',
-        controller: 'caesarCypherExampleEncryptedCtrl'
+        templateUrl: 'templates/caesarCipherExampleEncrypted.html',
+        controller: 'caesarCipherExampleEncryptedCtrl'
       }
     }
   })
 
-  .state('tabsController.caesarCypherExampleDecrypted', {
+  .state('tabsController.caesarCipherExampleDecrypted', {
     url: '/page10',
     views: {
       'tab1': {
-        templateUrl: 'templates/caesarCypherExampleDecrypted.html',
-        controller: 'caesarCypherExampleDecryptedCtrl'
+        templateUrl: 'templates/caesarCipherExampleDecrypted.html',
+        controller: 'caesarCipherExampleDecryptedCtrl'
       }
     }
   })
 
-  .state('tabsController.caesarCypherPractice', {
+  .state('tabsController.caesarCipherPractice', {
     url: '/page11',
     views: {
       'tab1': {
-        templateUrl: 'templates/caesarCypherPractice.html',
-        controller: 'caesarCypherPracticeCtrl'
+        templateUrl: 'templates/caesarCipherPractice.html',
+        controller: 'caesarCipherPracticeCtrl'
       }
     }
   })
@@ -593,12 +593,12 @@ angular.module('app.routes', ['ionicUIRouter'])
     }
   })
 
-  .state('tabsController.caesarCypherQuiz', {
+  .state('tabsController.caesarCipherQuiz', {
     url: '/page19',
     views: {
       'tab1': {
-        templateUrl: 'templates/caesarCypherQuiz.html',
-        controller: 'caesarCypherQuizCtrl'
+        templateUrl: 'templates/caesarCipherQuiz.html',
+        controller: 'caesarCipherQuizCtrl'
       }
     }
   })
@@ -1343,7 +1343,7 @@ angular.module('app.routes', ['ionicUIRouter'])
     }
   })
 
-$urlRouterProvider.otherwise('/page1/page3')
+$urlRouterProvider.otherwise('/page1/page144')
 
   
 
