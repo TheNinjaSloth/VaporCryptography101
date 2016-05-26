@@ -1,5 +1,9 @@
 angular.module('app.controllers', [])
   
+.controller('caesarDefaultPageCtrl', function($scope) {
+
+})
+   
 .controller('railFenceDefaultPageCtrl', function($scope) {
 
 })
@@ -560,7 +564,275 @@ angular.module('app.controllers', [])
 
 })
    
-.controller('caesarCipherDefaultPageCtrl', function($scope) {
+.controller('routeTranspositionPracticeCtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice1Question1Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice1Question1ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice1Question2Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice1Question2ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice1Question3Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice1Question3ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice1Question4Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice1Question4ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice1Question5Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice1Question5ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice2Question1Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice2Question1ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice2Question2Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice2Question2ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice2Question3Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice2Question3ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice2Question4Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice2Question4ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice2Question5Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice2Question5ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice3Question1Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice3Question1ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice3Question2Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice3Question2ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice3Question3Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice3Question3ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice3Question4Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice3Question4ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice3Question5Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice3Question5ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice4Question1Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice4Question1ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice4Question2Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice4Question2ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice4Question3Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice4Question3ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice4Question4Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice4Question4ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice4Question5Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice4Question5ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice5Question1Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice5Question1ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice5Question2Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice5Question2ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice5Question3Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice5Question3ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice5Question4Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice5Question4ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice5Question5Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionPractice5Question5ACtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionQuiz1Question1Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionQuiz1Question2Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionQuiz1Question3Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionQuiz1Question4Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionQuiz1Question5Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionQuiz2Question1Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionQuiz2Question2Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionQuiz2Question3Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionQuiz2Question4Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionQuiz2Question5Ctrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionExampleCtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionExampleDecryptedCtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionExampleEncryptedCtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionQuiz1CongratzCtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionQuiz2CongratzCtrl', function($scope) {
+
+})
+   
+.controller('routeTranspositionQuizCtrl', function($scope) {
+
+})
+   
+.controller('startupCtrl', function($scope) {
 
 })
  
